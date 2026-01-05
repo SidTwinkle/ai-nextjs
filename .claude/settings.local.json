@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir /B \"D:\\\\Projects\\\\ai-nextjs\\\\app\")",
+      "Bash(test -f \"D:\\\\Projects\\\\ai-nextjs\\\\.gitignore\")",
+      "Bash(npm run dev)",
+      "Bash(npm install @ai-sdk/openai)",
+      "Bash(npm install ai @ai-sdk/openai)"
+    ]
+  }
+}
